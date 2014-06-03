@@ -16,6 +16,7 @@
   "publishConfig": {
     "registry": "https://atom.cloudant.com/registry/_design/app/_rewrite"
   },
+  "license": "MIT",
   "dependencies": {
     "pegjs": "~0.7.0",
     "async": "~0.2.6",
