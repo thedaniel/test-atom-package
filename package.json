@@ -1,5 +1,5 @@
 {
-  "name": "test-package-rename",
+  "name": "test-package-rename2",
   "version": "1.4.1",
   "main": "./lib/snippets",
   "description": "Expand snippets matching the current prefix with `tab`.",
