@@ -1,6 +1,6 @@
 {
   "name": "test-package-rename5",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "main": "./lib/snippets",
   "description": "Expand snippets matching the current prefix with `tab`.",
   "repository": {
